@@ -14,8 +14,10 @@ Description: Randomly, the character would rubberband while sprinting, making th
 
 Launch the title
 Click battle royale build or no build.
-Sprint and see if the player is moving at the same speed as the default walk.
+Sprint and see if the player moves at the same speed as the default walk.
 
 Result: When sprinting, you are at the same speed as walking
 
 Expected result: When sprinting, you are faster than when you are walking
+
+Video Attatchment: https://youtu.be/CmEEQaqTmIA
