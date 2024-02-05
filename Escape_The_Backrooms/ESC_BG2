@@ -1,0 +1,22 @@
+Date: January 30th 2024
+
+Summary: LEVEL 52: THE SCHOOL HALLS: AI unable to guide through level
+
+Priority or Severity: A
+
+Visibility: High
+
+Type: AI
+
+Reproduction Rate: 100%
+
+Description: When a player blocks the guiding AI at a double doorway, the AI programming will bug out, resulting in the AI not moving further, making the level impossible to beat
+
+Launch the title
+Make your way through the game until Level 52
+Make your way through the level until you reach a double-door
+Stand in front of the AI
+
+Result: When standing in front of the AI, the AI can no longer move
+
+Expected result: After moving when standing in front of the AI, the AI will proceed down its programmed path 
