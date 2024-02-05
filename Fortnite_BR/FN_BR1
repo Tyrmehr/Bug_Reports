@@ -1,0 +1,21 @@
+Date: February 3rd 2024
+
+Summary: OPEN WORLD: When sprinting, you rubber band and move the same speed as normal walking
+
+Priority or Severity: A
+
+Visibility: High
+
+Type: Movement
+
+Reproduction Rate: 1%
+
+Description: Randomly, the character would rubberband while sprinting, making that movement unplayable.
+
+Launch the title
+Click battle royale build or no build.
+Sprint and see if the player is moving at the same speed as the default walk.
+
+Result: When sprinting, you are at the same speed as walking
+
+Expected result: When sprinting, you are faster than when you are walking
