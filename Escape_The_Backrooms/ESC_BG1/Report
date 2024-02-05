@@ -1,0 +1,23 @@
+Date: January 30th 2024
+
+Summary: LEVEL 0.1 THE DANGER ZONE: Player getting stuck on the door
+
+Priority or Severity: A
+
+Visibility: High
+
+Type: Collision
+
+Reproduction Rate: 70%
+
+Description: When the player opens the door and right away walks through it, there is a chance the player will no-clip inside the door hinge and get stuck, unable to move
+
+Launch Title
+Make your way through the game until you reach Level 0.1
+Head to the underground of the level
+Open a door and walk through at the same time
+
+Result: High chance that the player will clip into the doorframe, causing them immobile
+
+Expected Results: Player is able to open the door and walk through
+
